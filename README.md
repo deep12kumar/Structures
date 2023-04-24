@@ -22,8 +22,6 @@ struct data {
   char address[50];int age;
 };
 
-image
-
 Accessing Structure elements:
 We can directly access the structure member using the dot(.) operator. The dot operator is used between the structure variable name and the structure member name we want to access. Let’s see the syntax to understand it in a better way.
 
