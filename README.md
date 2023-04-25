@@ -9,6 +9,8 @@ To create a structure in C, the struct keyword is used followed by the tag name 
 EXAMPLE
 
 struct data {
+![image](https://user-images.githubusercontent.com/125429608/234252748-b2077b5c-0e52-47b6-968d-2197a70b9020.png)
+
 
 };
 
